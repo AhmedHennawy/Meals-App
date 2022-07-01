@@ -8,7 +8,7 @@ this mobile app with cross-platform (Flutter) shows the recipes for a meal in di
   <tr>
     <td>Home</td>
      <td>Meals</td>
-     <td>Add / Filters</td>
+     <td>Filters</td>
   </tr>
   <tr>
     <td><img src="screenshots/meal.png" width=270 height=480></td>
